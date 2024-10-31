@@ -1,0 +1,64 @@
+Propulsion
+2 x Blue Robotics T200 Thrusters ($238 each)
+2 x Blue Robotics Basic ESCs ($38 each)
+2 x Blue Robotics Thruster Mounting Brackets ($8 each)
+Subtotal: $492.00
+Estimated shipping: $14.20
+Tax is not collected in Florida.
+Total: $506.20
+
+Autopilot
+1 x Radiolink Pixhawk ($132.05)
+1 x Radiolink GPS nad External Compass Module ($34.30)
+1 set of Telemetry Radios ($60-$70)
+^ All Pixhawk hardware is open source, including the Sik telemetry radios. Many resellers have copied the telemetry radios and, as a result, numerous clones can be found on Amazon. Quality and performance varies widely.
+^^ I am still searching for SiK Telemetry Radios to use.
+Subtotal: $226.35
+
+RC Transmitter and Receiver
+1 x Taranis X9 Lite RC Transmitter ($103.49)
+1 x Taranis X8R Receiver ($38.99)
+2 x 18650 Button Top LiPo Batteries ($2.95 each)
+^ Looking at Samsung 35E 18650 3500mAh 8A Batteries. Still confirming if these are the correct batteries, unsure what I need for different mAh or amperage.
+1 x 18650 LiPo Charger ($4.99)
+^ Looking at XTAR MC1 1 Bay USB Battery Charger. Still confirming if this is the correct charger.
+NOTE: Batteries and Charger are labelled as "Optional" by Squirm Tech, but I fail to see an alternative.
+Subtotal: $153.37
+
+Power and Wiring
+1 x 4S 5000 mAh 50C LiPo Battery with XT60 ($59.99)
+^ Quote from Squirm Tech: "LiPo batteries power the T200 thrusters and the Pixhawk. According to Blue Robotics, the T200 thrusters are optimized for use with a 4S LiPo (16 V). However, the T200 thrusters can operate at voltages ranging from 7-20 V. We chose a 4S LiPo based off the information provided by Blue Robotics and it works great. That said, it appears that you have some flexibility when choosing a battery."
+1 x Screw Terminal Strip ($13.99)
+12 AWG wire ($11.60)
+^ Pacer's 12 AWG UL-approved marine wire, 25 ft.
+12 AWG Spade Crimp Connectors ($9.99)
+2 x M16 IP68 Cable Glands ($5.00)
+1 LiPo Charger ($39.99)
+^ Lipo Charger H B6 RC Charger LiPo Battery Balance RC Car Charger Discharger for LiPo/Li-ion/Life Battery(1-6s) NiMH/NiCd (1-15s) RC Hobby Battery Balance Charger 80W 6A XT-60/JST/Deans Connectors
+NOTE: LiPo Charger is labelled as "Optional" by Squirm Tech, but I fail to see an alternative.
+Subtotal: $135.57
+
+Electronics Enclosure
+IP65 (or higher) junction box – minimum dimensions 300 mm x 200 mm x 160 mm ($48.99)
+6 mm thick (1/4″) hobby plywood (300 mm x 300 mm) ($23.95)
+4 x M5 x 40 mm bolts ($6.59)
+4 x M5 standoffs 
+4 x M5 nuts
+^ Need to ask hardware experts what the standoffs and nuts mean, unsure presently.
+Subtotal: $79.53
+
+Mounting Hardware
+Stainless Steel M3-0.5 Threaded Rod (1m)
+Stainless Steel M3 Nuts
+Stainless Steel M3 Washers
+
+3d Printed Parts
+Left Enclosure Mount
+Right Enclosure Mount
+Front Enclosure Mount
+2 x Fins
+GoPro Adhesive Mount
+^ Optional, ask @cam-s-hunt.
+
+Subtotal: $1101.02
+^Still incomplete
